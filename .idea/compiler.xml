@@ -10,12 +10,14 @@
         <module name="alive-shop-mapper" />
         <module name="alive-shop-service" />
         <module name="alive-shop-pojo" />
+        <module name="alive-shop-common" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="alive-shop-api" options="-parameters" />
+      <module name="alive-shop-common" options="-parameters" />
       <module name="alive-shop-mapper" options="-parameters" />
       <module name="alive-shop-pojo" options="-parameters" />
       <module name="alive-shop-service" options="-parameters" />

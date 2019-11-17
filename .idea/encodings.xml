@@ -3,6 +3,7 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alive-shop-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alive-shop-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alive-shop-mapper" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alive-shop-pojo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alive-shop-service" charset="UTF-8" />
