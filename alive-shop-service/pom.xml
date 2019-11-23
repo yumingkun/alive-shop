@@ -11,5 +11,18 @@
 
     <artifactId>alive-shop-service</artifactId>
 
+    <dependencies>
+        <!--
+			service -> mapp -> pojo -> common
+			service可以使用pojo与common中相应的方法的
+		-->
+        <dependency>
+            <groupId>com.alive</groupId>
+            <artifactId>alive-shop-mapper</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
+
 
 </project>
