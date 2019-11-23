@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="alive-shop-api" />
         <module name="alive-shop-mapper" />
-        <module name="alive-shop-service" />
         <module name="alive-shop-pojo" />
+        <module name="alive-shop-service" />
         <module name="alive-shop-common" />
       </profile>
     </annotationProcessing>
